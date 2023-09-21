@@ -1,1 +1,1 @@
-# Anime
+A website for anime weebs. 
